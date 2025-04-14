@@ -31,4 +31,5 @@ By addressing these concerns, developers can create a more seamless and enjoyabl
 ## PDF Prototype
 
 You can download the detailed UI/UX prototype in the PDF format below:
+https://github.com/Saisree1998/UI-UX-TemuFigmaPrototype/blob/main/HCI_Prototype.pdf
 
